@@ -21,7 +21,7 @@
     "bootstrap": "^5.0.1",
     "camelcase": "6.2.0",
     "case-sensitive-paths-webpack-plugin": "2.3.0",
-    "css-loader": "4.3.0",
+    "css-loader": "5.2.6",
     "dotenv": "8.2.0",
     "dotenv-expand": "5.1.0",
     "eslint": "7.27.0",
